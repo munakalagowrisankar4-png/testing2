@@ -1,2 +1,1 @@
-console.log("this is belongs to feature1 branch")
-console.log("feature1 modified")
+System.out.println("this is feature 2");
